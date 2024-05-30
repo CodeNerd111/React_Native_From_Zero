@@ -19,7 +19,7 @@ const ViewImageScreen = () => {
       <Image
         resizeMode="contain"
         style={styles.image}
-        source={require("../assets/chair.jpg")}
+        source={require("../assets/iphone.jpg")}
       />
     </View>
   );
